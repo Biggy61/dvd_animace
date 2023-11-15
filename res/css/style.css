@@ -1,0 +1,11 @@
+*{
+    user-select: none;
+    font-family: sans-serif;
+    
+}
+body{
+    margin: 0;
+    overflow: hidden;
+    
+}
+
