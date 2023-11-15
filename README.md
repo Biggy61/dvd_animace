@@ -1,2 +1,2 @@
 # dvd_animace
-[View](https://biggy61.github.io/DVD_animace/)
+[View](https://biggy61.github.io/dvd_animace/)
